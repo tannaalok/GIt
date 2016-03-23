@@ -1,6 +1,6 @@
 <?xml version="1.0"?><DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts" DTS:ExecutableType="SSIS.Package.2">
 //<DTS:Property DTS:Name="PackageFormatVersion">3</DTS:Property>
-<DTS:Property DTS:Name="VersionComments"></DTS:Property>
+//<DTS:Property DTS:Name="VersionComments"></DTS:Property>
 <DTS:Property DTS:Name="CreatorName">WIN-J91M3LQUZNB\Administrator</DTS:Property>
 <DTS:Property DTS:Name="CreatorComputerName">WIN-J91M3LQUZNB</DTS:Property>
 <DTS:Property DTS:Name="CreationDate" DTS:DataType="7">3/23/2016 4:08:44 PM</DTS:Property>
