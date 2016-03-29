@@ -153,7 +153,7 @@
 <DTS:Property DTS:Name="LoggingMode">0</DTS:Property>
 <DTS:Property DTS:Name="FilterKind">1</DTS:Property>
 <DTS:Property DTS:Name="EventFilter" DTS:DataType="8"></DTS:Property></DTS:LoggingOptions>
-<DTS:Property DTS:Name="ObjectName">Display Message4 1</DTS:Property>
+<DTS:Property DTS:Name="ObjectName">Display Alok 1</DTS:Property>
 <DTS:Property DTS:Name="DTSID">{B083EB83-B816-4847-935F-CB3BA2F4DCF1}</DTS:Property>
 <DTS:Property DTS:Name="Description">Script Task</DTS:Property>
 <DTS:Property DTS:Name="CreationName">Microsoft.SqlServer.Dts.Tasks.ScriptTask.ScriptTask, Microsoft.SqlServer.ScriptTask, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91</DTS:Property>
