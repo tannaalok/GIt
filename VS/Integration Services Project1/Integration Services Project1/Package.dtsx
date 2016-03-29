@@ -109,7 +109,7 @@
 <DTS:Property DTS:Name="DTSID">{5B6F4EAC-33BB-436B-9092-28A8A0BB3821}</DTS:Property>
 <DTS:Property DTS:Name="Description"></DTS:Property>
 <DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
-<DTS:Property DTS:Name="ConnectionString">C:\Users\Administrator\Desktop\Input1.txt</DTS:Property></DTS:ConnectionManager></DTS:ObjectData></DTS:ConnectionManager>
+<DTS:Property DTS:Name="ConnectionString">C:\Users\Administrator\Desktop\Input.txt</DTS:Property></DTS:ConnectionManager></DTS:ObjectData></DTS:ConnectionManager>
 <DTS:Configuration>
 <DTS:Property DTS:Name="ConfigurationType">1</DTS:Property>
 <DTS:Property DTS:Name="ConfigurationString">C:\Users\Administrator\Desktop\pkgconfig.dtsConfig</DTS:Property>
